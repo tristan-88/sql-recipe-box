@@ -39,3 +39,7 @@
 
 
 -- YOUR CODE HERE
+SELECT ingredients.amount, ingredients.food_stuff, units_of_measure.name
+FROM ingredients
+JOIN units_of_measure ON(ingredients.unit_of_measure_id = units_of_measure.id)
+WHERE ingredients.recipe_id = $1;
