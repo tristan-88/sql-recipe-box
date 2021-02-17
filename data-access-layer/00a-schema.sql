@@ -19,4 +19,4 @@ CREATE USER recipe_box_app WITH PASSWORD 'SPuaQ3no';
 -- connect privileges from PUBLIC just to have good security.
 
 -- YOUR CODE HERE
-CREATE DATABASE recipe_box WITH OWNER reciper_box_app;
+CREATE DATABASE recipe_box WITH OWNER recipe_box_app;

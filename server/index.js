@@ -16,6 +16,6 @@ app.use('/ingredients', require('./controllers/ingredients'));
 app.use('/instructions', require('./controllers/instructions'));
 app.use('/assets', express.static(assetsPath));
 
-app.listen(3000, () => {
-  console.log('Recipe box currently accepting requests on port 3000.');
+app.listen(3001, () => {
+  console.log('Recipe box currently accepting requests on port 3001.');
 });
