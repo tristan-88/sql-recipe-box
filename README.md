@@ -1,4 +1,8 @@
-# hello
+# Hello
+
+This is from: Tristan San Juan
+Hi! Partner lets do this 😀
+Just want to apologize in advance if I am not as solid in the subject matter as you...
 
 # Recipe Box
 
