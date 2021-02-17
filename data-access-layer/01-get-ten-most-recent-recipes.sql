@@ -16,7 +16,7 @@
 
 
 -- YOUR CODE HERE
-SELECT id, tittle, updated
+SELECT id, title, updated
 FROM recipes
 ORDER BY updated DESC
 LIMIT 10;
